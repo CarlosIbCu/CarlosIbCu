@@ -1,76 +1,31 @@
+# 👋 Hi, I'm Carlos
 
-Hi there 👋, I'm **Carlos** and I'm a **tech entrepreneur, aerospace engineer & polymath**.
+Aerospace engineer and technologist focused on **AI, space, and open source**.
 
-```diff
-+ Co-Founder & Chief Revenue & AI Officer @ NUWE.
-+ I design AI-driven products and take them to market.
-+ Closed enterprise deals (Oracle, Schneider Electric, Novartis, Inditex, Santander, CaixaBank, Danone, Zurich, MediaMarkt, MWCapital...).
-+ Led international expansion across Europe, LATAM & Middle East.
-+ Raised ~€1.3M and scaled a 15 FTE team.
-```
+I currently work in **technology at Inditex**, where I **design and lead internal products** that **enable and scale the company’s open source strategy** in a global, enterprise environment. My work focuses on **turning internal innovation into open, sustainable projects**, defining how they are released to the community with the right **governance, adoption, impact, and external collaboration**.
 
-## 🟢 Spotlight
+Previously, I was a **co-founder of NUWE, a tech startup**, where I built **AI-driven products**, led **go-to-market and international expansion**, closed **enterprise deals**, helped raise **~€1.3M**, and scaled teams to **15+ people**.  
+I also have hands-on experience in **AI for autonomous drones**, working on **motion estimation, SLAM, and sensor fusion (vision + IMU)** for robotic systems.
 
-- 🛰️ **Aerospace & Robotics**: Visual **SLAM + IMU** research for UAVs at **Sapienza Università di Roma (LabRoCoCo)**.
-- 🧠 **AI Engineering**: TensorFlow, Computer Vision, ML; AI for robotics and talent intelligence.
-- 💼 **GTM & Sales**: Built GTM engines, partnerships (e.g., **InfoJobs**), and negotiated big-ticket B2B.
-- 📚 **Polymath Mindset**: Bridging diverse disciplines — from engineering to business, from philosophy to technology.
+## 🧭 Areas of Focus
 
-## 🟢 Core Skills
+- 🌍 **Open Source**  
+  Internal platforms, governance models, and strategies to release internal projects to the community.
 
-```diff
-+ Product & Biz ........ Product Strategy, PMF, GTM, Enterprise Sales, Partnerships, Fundraising
-+ Programming .......... Python, C++, MATLAB
-+ AI & Data ............ CV, ML, DL
-+ Robotics ............. SLAM, UAVs, ROS, Linux
-```
+- 🧠 **AI & Robotics**  
+  Computer Vision, ML/DL, **SLAM, UAVs, autonomy, and sensor fusion**.
 
-## 🟢 Experience Highlights
+- 🛰️ **Engineering**  
+  Aerial robotics, autonomous systems, ROS, C++ / Python.
 
-### NUWE — Co-Founder | Chief Revenue & AI Officer (Jan 2022 → Present)
-- Orchestrated **GTM** and **global expansion** across EU, LATAM, and MENA.
-- Closed **enterprise** contracts with tier-1 brands and **forged alliances** (incl. **InfoJobs**).
-- **Scaled team** (→ 15 FTE) and **secured €1.3M** in funding to accelerate growth.
-- Built AI-driven experiences for skills validation, matching and upskilling.
+- 💼 **Product**  
+  Strategy, adoption, impact, and execution in complex environments.
 
-<details>
-  <summary><b>Earlier</b></summary>
+## 🌱 Vision
 
-- **NUWE — Co-Founder | CTO (Nov 2020 → Jan 2022):** launched tech-skills validation platform; backed by VCs.
-- **Sapienza Università di Roma — SLAM Algorithm Researcher (2018 → 2019):** motion estimator with IMU+vision for autonomous UAVs; C++/Python/ROS/OpenCV.
-- **Nodem Security — Co-Founder & Blockchain Dev (2019 → 2020):** Solidity smart contracts for authenticity & traceability.
-- **Airia Ingeniería — Security Auditor (2018):** critical infrastructure risk analysis.
-- **Vueling — Instruction Technical (2018):** assessment design for pilots & cabin crew.
-</details>
+I’m interested in building **invisible but essential infrastructure**: tools, rules, and cultures that help developers create better systems, collaborate more effectively, and leave healthier ecosystems behind.  
 
-## 🟢 Awards & Recognition
+---
 
-- 🏆 **Best Talent Startup in Spain** (2022)
-- 🏆 **Top 25 Spanish Startups** (2023)
-- 🏆 **Best Talent Software by CaixaBank** (2024)
-
-## 🟢 Publications
-
-- 🧠 *AI also writes code: how it helps developers*  
-- 🌑 *Asteroidal volatiles for the development of planetary outposts: the case of the Moon*
-
-## 🟢 Tech Stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-00FF00?logo=python&logoColor=000000"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00FF00?logo=c%2B%2B&logoColor=000000"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-00FF00?logo=tensorflow&logoColor=000000"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-00FF00?logo=opencv&logoColor=000000"/>
-  <img alt="ROS" src="https://img.shields.io/badge/ROS-00FF00?logo=ros&logoColor=000000"/>
-  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-00FF00?logo=matlab&logoColor=000000"/>
-</p>
-
-
-### 📫 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/carlosibanezcuadal/" style="text-decoration:none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-  </a>
-</p>
-
+📫 **Contact**  
+- LinkedIn: https://www.linkedin.com/in/carlosibanezcuadal/
