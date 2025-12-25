@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 
 ┌──────────────────────────────────────────────────────────────┐
-│  AEROSPACE ENGINEER · TECH ENTREPRENEUR · AI · OPEN SOURCE    │
+│  AEROSPACE ENGINEER · TECH ENTREPRENEUR · AI · OPEN SOURCE   │
 └──────────────────────────────────────────────────────────────┘
 </span>
 </pre>
